@@ -1,0 +1,2 @@
+# paradigm-quest-assets
+pixel
